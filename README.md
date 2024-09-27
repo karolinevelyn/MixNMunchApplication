@@ -1,0 +1,3 @@
+This project is part of the Software Engineering course (COMP6100001) and involves developing an Android food ordering app using Android Studio and Java. The app allows customers to order from multiple nearby restaurants simultaneously, offering a seamless experience for users who want to explore a variety of food options in one go.
+
+One of the standout features is the ability to order from more than one restaurant in a single transaction, giving users greater flexibility and choice when it comes to their meal selections. Additionally, the app includes a split bill feature, which is especially useful for group orders. When friends or family order together, they can activate the split bill option.
